@@ -1,6 +1,7 @@
 rosa claro - d57a79ff
 rosa escuro - c3403fff
 verde - 79d57aff
+verde escuro - 3dc13eff
 azul escuro - 7a79d5ff
 azul claro - 9fe1e1ff
 cinzento - 7b6c6fff
